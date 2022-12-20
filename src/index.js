@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 
  mongoose
   .connect(
-    "mongodb+srv://DeeptirthaMukherjee:QYKI3k8QSKC4I7FZ@cluster1.khatgm1.mongodb.net/project4-db?retryWrites=true&w=majority",
+    "mongodb+srv://Gyaneshwer694:gYaN0694Mdb@cluster1.i15rwas.mongodb.net/?retryWrites=true&w=majority",
     { UseNewUrlParser: true }
   )
   .then(() => console.log("Mongo-Db is connected"))
